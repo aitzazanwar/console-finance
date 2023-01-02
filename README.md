@@ -14,5 +14,5 @@ This is a JavaScript project finding out how to calculate the elements inside a 
 - console log all the values.
 
 ## To Use
-Open the web application in browser, and click on inspect elemnt or hit F12 key on the key board.
+Open the web application in browser, and click on inspect element or hit F12 key on the key board.
 Select console to view the results.
